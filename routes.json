@@ -1,5 +1,6 @@
+
 {
-  "/api/": "/",
-  "/blog/:resource/:id/show": "/:resource/:id",
-  "/blog/:category": "/posts?category=:category"
+"tenTruyen":"Lá Chăn Mắt",
+"tenChap":"Chapter 112",
+"linkAnh":"https://cdn.176store.com/truyen69/stories3/10241_la-chan-mat.jpg"
 }
